@@ -72,7 +72,7 @@
 ;; zu schauen, ob es nicht schon eine eingebaute Funktion gibt. Erfreulich
 ;; häufig wird man eine finden.
 
-;; Schreibe nun den Code aus Aufgabe 2 um, indem du `inc` statt `+` verwendest.
+;; Schreibe nun den letzten Teil des Code aus Aufgabe 1 um, indem du `inc` statt `+` verwendest.
 
 
 
