@@ -424,11 +424,25 @@ nth
 ;; zurückgegeben werden. Tritt nichts davon ein, soll die Eingabezahl
 ;; zurückgegeben werden.
 ;;
-;; Beispiel: n = 13, beginnend ab 1. Ein Aufruf von `(fizzbuzz (range 1 14))`
+;; Beispiel: n = 13, beginnend ab 1. Ein Aufruf von `(fizzbuzz 13)`
 ;; soll dann folgenden Output liefern:
 
 '(1 2 "FIZZ" "BUZZ" 5 "FIZZ" 7 "BUZZ" "FIZZ" 10 11 "FIZZBUZZ" 13)
 
+;; Die Beschreibung zeigt nur grob was gefragt ist. Du kannst jederzeit davon
+;; abweichen und deine eigenen (vielleicht sinnvolleren) Ideen einbringen
+
+
+
+
+
+
+
+
+;; Für Fortgeschrittene:
+;; Die Funktion `fizzbuzz` könnte auch _alle_ möglichen Lösungen beinhalten,
+;; also lazy sein. Ein Aufruf könnte dann wie folgt aussehen:
+;; `(take 13 fizzbuzz)`.
 
 
 
