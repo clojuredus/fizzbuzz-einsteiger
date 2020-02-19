@@ -62,9 +62,9 @@ Damit man schnell Code in die REPL schieben kann, kann ich nur empfehlen
 folgende Key Bindings nach Belieben einzurichten. Ich habe mal dahinter
 geschrieben, welche Tastenkombi ich so für meine Bindings verwende:
 
-* Load File in REPL (<kbd>Control</kbd>-<kbd>c</kbd>, <kbd>Control</kbd>-<kbd>k</kbd>)
-* Send Form Before Caret to REPL (<kbd>Control</kbd>-<kbd>c</kbd>, <kbd>Control</kbd>-<kbd>e</kbd>)
-* Send Top Form to REPL (<kbd>Control</kbd>-<kbd>c</kbd>, <kbd>Control</kbd>-<kbd>c</kbd>)
+* Load File in REPL (<kbd>Control</kbd><kbd>c</kbd>, <kbd>Control</kbd><kbd>k</kbd>)
+* Send Form Before Caret to REPL (<kbd>Control</kbd><kbd>c</kbd>, <kbd>Control</kbd><kbd>e</kbd>)
+* Send Top Form to REPL (<kbd>Control</kbd><kbd>c</kbd>, <kbd>Control</kbd><kbd>c</kbd>)
 
 Alle Bindings befinden sich in Einstellungen -> Keymap -> Plug-Ins -> Cursive.
 
