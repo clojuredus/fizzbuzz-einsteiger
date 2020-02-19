@@ -11,17 +11,22 @@ installiert sein.
 Eine IDE deiner Wahl (IntelliJ + Cursive, Emacs + CIDER, VS Code, ...) kannst du
 auch verwenden, ist aber nicht zwingend notwendig.
 
+Außerdem brauchen wir ein halbwegs aktuelles JDK.
+
 ## Verwendung
 
 ### Eigene IDE
 
-Das Projekt kann in einer IDE deiner Wahl importiert werden. Die
-Konfiguration für IntelliJ + Cursive ist mit eingecheckt.
+Das Projekt kann in einer IDE deiner Wahl importiert werden. Die Konfiguration
+für IntelliJ + Cursive ist mit eingecheckt. Denke dran unten rechts im Editor
+noch "Paredit" zu "Parinfer" zu ändern, da es einen leichteren Einstieg gibt.
+Parinfer ordnet deine Klammern dann gemäß der Einrückung wohingegen Paredit
+explizite Befehle erwartet, um eine Klammer zu verschieben.
 
 In jedem Fall solltest du prüfen, dass deine IDE ein entsprechendes Clojure
 Plugin liefert, damit direkt aus dem Editor heraus mit der REPL interagiert
-werden kann. Sollte dir das gerade zu viel sein, kannst du unten die Web-IDE
-verwenden.
+werden kann. Parinfer gibt es auch für die meisten IDEs. Sollte dir das gerade
+zu viel sein, kannst du unten die Web-IDE verwenden.
 
 ### Web-IDE
 
