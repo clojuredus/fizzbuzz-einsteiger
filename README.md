@@ -15,6 +15,11 @@ Außerdem brauchen wir ein halbwegs aktuelles JDK.
 
 ## Verwendung
 
+Die Projektbeschreibung befindet sich
+[src/einsteiger/core.clj](src/einsteiger/core.clj). Richte deine IDE vorher ein,
+wenn du eine eigene verwenden möchtest. Alternativ starte die Web-IDE (siehe
+weiter unten).
+
 ### Eigene IDE
 
 Das Projekt kann in einer IDE deiner Wahl importiert werden. Die Konfiguration
