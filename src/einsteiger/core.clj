@@ -15,6 +15,27 @@
 
 
 
+;; TODO: Wenn IntelliJ mit Cursive verwendet wird...
+;; Wenn IntelliJ mit Cursive verwendet wird, dann stellt bitte sicher, dass
+;; unten rechts "Paredit" zu "Parinfer" geändert wird. Dann habt ihr den selben
+;; Modus wie in der Einleitung.
+;; Eine Startkonfiguration ist schon im Repository hinterlegt. Du kannst die
+;; Run-Configuration "Start" verwenden und erhälst sofort eine REPL.
+
+
+;; TODO Wenn die Web-IDE "Nightlight" verwendet wird...
+;; Dann ist das meiste schon eingestellt. Aktiviere noch InstaREPL und passe bei
+;; unendlichen Datenstrukturen auf.
+
+
+
+
+
+
+
+
+
+
 ;; -----------------------------------------------------------------------------
 ;; 1. Aufgabe
 ;;
@@ -26,7 +47,7 @@
 
 ;; Es wird also die Funktion `+` mit den Argumenten 1 und 2 aufgerufen:
 ;;
-;; (operator operand1 operand2 ... operandn)
+;; (funktion operand1 operand2 ... operandn)
 ;;
 ;; Das Ergebnis kannst du dir in der REPL anschauen, wenn du den Ausdruck
 ;; evaluierst.
